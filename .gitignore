@@ -1,0 +1,9 @@
+# Node
+node_modules
+build
+
+# Environment
+.env
+
+# Test data
+data
